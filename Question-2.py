@@ -1,2 +1,2 @@
 f = open("text.txt", "r")
-print(f.read(n))
+print(f.readline(n))
